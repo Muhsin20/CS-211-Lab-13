@@ -21,8 +21,8 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 void madan6_lpauls2(){
-    printf("Muhsin Adan and Levin Paulson")
-    printf("This is the function we created and we ran it with the mac terminal")
+    printf("Muhsin Adan and Levin Paulson");
+    printf("This is the function we created and we ran it with the mac terminal");
     
 }
 int main()
